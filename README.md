@@ -19,6 +19,12 @@ This repository contains 2 different LLM projects:
 - **Objective**: Build an ChatGPT style LLM for reading a Quiz Bank and posing Quiz questions for students to practice using Google AI on Colab
 - **Status**: Ready for training
 
+#### 3. AI Bank Statement Analyzer
+
+- **Notebook**: `AI Bank Statement Analyzer/AI_Bank_Statement_Analyzer.ipynb`
+- **Objective**: Practical use of AI LLM for Analysing Bank Statement and give visual
+                 summary of the transactions. Furthermore , it uses AI to categories expenses and plots them on a graph.
+- **Status**: Ready for training
 
 ## Getting Started
 
@@ -36,5 +42,6 @@ LLM/
 ├── AI_QuizMaster/
 |   └── Dataset/
 |   └── Quiz_Master_from_Text_Book.ipynb
-
+├── AI_Bank Statement Analyzer/
+|   └── AI_Bank_Statement_Analyzer.ipynb
 ```
