@@ -23,7 +23,7 @@ This repository contains 2 different LLM projects:
 
 - **Notebook**: `AI Bank Statement Analyzer/AI_Bank_Statement_Analyzer.ipynb`
 - **Objective**: Practical use of AI LLM for Analysing Bank Statement and give visual
-                 summary of the transactions. Furthermore , it uses AI to categories expenses and plots them on a graph.
+                 summary of the transactions. Furthermore , it uses AI to categorize expenses and plots them on a graph.
 - **Status**: Ready for training
 
 ## Getting Started
